@@ -6,7 +6,7 @@ import streamlit as st
 st.write(
 
     """
-    ![title](submission/mastgm0817/01_first_webapp/img/man.png){: width="100%" height="100%"}
+    ![title](../img/man.png){: width="100%" height="100%"}
 
     ## 나에게 가장 도움이 될 것 같은 유튜브
     > ### _노마드 코더_
