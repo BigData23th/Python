@@ -1,11 +1,11 @@
 # streamlit 라이브러리 호출
 import streamlit as st
 
-st.image(
-    <img src="https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png" width="300" height="200"> 
-)
+
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 st.write(
+    <img src="https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png" width="300" height="200"> 
+
     """
     ## 나에게 가장 도움이 될 것 같은 유튜브
     > ### _노마드 코더_
