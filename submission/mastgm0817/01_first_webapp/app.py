@@ -1,6 +1,17 @@
 # streamlit 라이브러리 호출
 import streamlit as st
+from PIL import Image
 
+def main() :
+    
+    # 인터넷상에 있는 이미지를 화면에 표시하기
+    # URL이 있는 이미지를 말한다.
+    
+    img = Image.open('img/man.jpg')
+    st.image(img)
+
+if __name__ == "__main__" :
+    main()
 
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 st.write(
