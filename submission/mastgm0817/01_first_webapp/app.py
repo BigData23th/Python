@@ -5,9 +5,10 @@ import streamlit as st
 st.write(
     """
     ## 나에게 가장 도움이 될 것 같은 유튜브
-    > ### 노마드 코더
+    > ### _노마드 코더_
 
     + [노마드코더](https://www.youtube.com/@nomadcoders)
+    [![이미지](https://i.ytimg.com/vi/x_Yw2f161CU/hqdefault.jpg)](https://www.youtube.com/@nomadcoders)
 
     ```
     이유: 최신 IT트렌드와 이슈 등을 영어와 설명을 해주고 한글 자막까지 제공해줘서
