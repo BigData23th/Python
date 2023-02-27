@@ -15,8 +15,8 @@ st.write(
     ```
     이유: 최신 IT트렌드와 이슈 등을 영어와 설명을 해주고 한글 자막까지 제공해줘서
     ```
-    `#FF99CC 영어 듣기 실력이 증가`
-
+    <span style="color:#FF99CC>~~영어 듣기 실력이 증가~~</span>
+    
     ---
 
     ## 다른 학생들에게 도움이 될 것 같은 유튜브
@@ -37,6 +37,7 @@ st.write(
     - [pixabay](https://pixabay.com/ko/)
     - [MarshallK](https://marshallku.com/)
     - [Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#emotion)
+    - [깃허브 마크다운](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
     """
 )
