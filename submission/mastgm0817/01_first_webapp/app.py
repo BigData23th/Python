@@ -20,7 +20,7 @@ st.write(
     ---
 
     ## 다른 학생들에게 도움이 될 것 같은 유튜브
-    > `#FF99CC` ### _드림코딩_ :+1:
+    > `#FF99CC ### _드림코딩_` :+1:
 
     [![이미지](https://i.ytimg.com/vi/TTLHd3IyErM/hqdefault.jpg)](https://www.youtube.com/@dream-coding)
 
