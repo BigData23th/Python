@@ -10,8 +10,9 @@ st.write(
 
     ```
     [노마드코더](https://www.youtube.com/@nomadcoders)
+    <a href="https://www.youtube.com/@nomadcoders">노마드코더 이동!</a>
     ```
-    
+
     ---
 
     ## 다른 학생들에게 도움이 될 것 같은 유튜브
