@@ -19,7 +19,7 @@ st.write(
 
 )
 
-    <span style="color:#FF99CC>~~영어 듣기 실력이 증가~~</span>
+<span style="color:#FF99CC>~~영어 듣기 실력이 증가~~</span>
 
 st.write(
 
