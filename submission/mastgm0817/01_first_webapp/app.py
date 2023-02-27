@@ -5,10 +5,16 @@ import streamlit as st
 st.write(
     """
     ## 나에게 가장 도움이 될 것 같은 유튜브
-    ### 노마드 코더(https://www.youtube.com/@nomadcoders)
+    ### 노마드 코더
     > 이유: 기본적으로 영어로 설명을 해줘서
-
-    * [노마드코더](https://www.youtube.com/@nomadcoders)
+    """
+)
+st.image(
+    "https://icons8.com/icon/5918/finger-up"
+)
+st.write(
+    """
+    * [노마드코더]
 
     ## 다른 학생들에게 가장 도움이 될 것 같은 유튜브
     ### 드림코딩
@@ -16,7 +22,7 @@ st.write(
 
     * [드림코딩](https://www.youtube.com/@dream-coding)
 
-    # 참고 사이트
+    ##### 참고 사이트
     * [icons8](https://icons8.com/)
     * [flaticon](https://www.flaticon.com/)
     * [pixabay](https://pixabay.com/ko/)
