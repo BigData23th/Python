@@ -16,7 +16,7 @@ st.write(
     ---
 
     ## 다른 학생들에게 도움이 될 것 같은 유튜브
-    > ### 드림코딩
+    > ### _드림코딩_
 
     + [드림코딩](https://www.youtube.com/@dream-coding)
 
