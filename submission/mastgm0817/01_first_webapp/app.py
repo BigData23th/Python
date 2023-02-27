@@ -2,14 +2,6 @@
 import streamlit as st
 from PIL import Image
 
-def main() :
-    
-    video_file = open('video/mv1.mp4', 'rb')
-    st.video(video_file)
-
-if __name__ == "__main__" :
-    main()
-
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 st.write(
 
