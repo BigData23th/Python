@@ -7,8 +7,9 @@ def main() :
     # 인터넷상에 있는 이미지를 화면에 표시하기
     # URL이 있는 이미지를 말한다.
     
-    img = Image.open('img/man.jpg')
-    st.image(img)
+    url = 'https://cdn.pixabay.com/photo/2023/01/14/22/23/geometric-7719159_960_720.png'
+    st.image(url)
+    st.text('사진출처 : https://blog.daum.net/myungee/9')
 
 if __name__ == "__main__" :
     main()
