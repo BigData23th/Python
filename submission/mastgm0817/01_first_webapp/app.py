@@ -7,7 +7,7 @@ st.write(
 
     """
 
-    ![이미지](https://cdn.pixabay.com/photo/2023/01/28/06/57/man-7750139_960_720.png)
+    <img src="https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png" width="300" height="200"> 
 
 
     ## 나에게 가장 도움이 될 것 같은 유튜브
